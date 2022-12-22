@@ -176,3 +176,4 @@ if arguments.overall:
 if arguments.interactive:
     country = input("Enter the country for statistics: ")
     print(interactive(country))
+
